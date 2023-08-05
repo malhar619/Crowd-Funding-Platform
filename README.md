@@ -5,4 +5,4 @@
 --> REACTJS, TailwindCSS, Solidity.
 
 ## Link for the application:
---> [https://cryptokesh.netlify.app/](https://crowd-funding-eth.netlify.app/)https://crowd-funding-eth.netlify.app/
+--> https://crowd-funding-eth.netlify.app/
